@@ -31,7 +31,10 @@ At various points VS Code might offer to install plug-ins which it thinks will b
 # Install Code on micro:bit
 
 ## Add Source Code Folder
-* Copy the source code (python files) to a folder on your computer.
+* Download the source code (python files) from this page to a folder on your computer.  The simplest way is to use the green `Code` button at the top of the page to download a zip file, which you then need to extract to a folder.
+
+![download.png](download.png)
+
 * In VSCode select *Menu* -> *Add Folder to Workspace...*, highlight the source code folder and press *Add*.  The folder will be added to file explorer on the left. You can view and edit the files by double clicking on them.
 
 ## Open a Terminal
